@@ -44,7 +44,12 @@ Learning AI One-Day At a Time
    Usage: Chatbot to chat with HR, Finance. 
 https://medium.com/@prajeeshprathap/understanding-grounding-llms-and-retrieval-augmented-generation-3a72c74a1d99
 
+   4. RAGs
+   5. Prompting
+   6. Embeddings 
 
 Resources:
-https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/prompts/examples/text_summarization.ipynb
+https://github.com/GoogleCloudPlatform/generative-ai/tree/main
 https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial
+https://learn.deeplearning.ai/
+
