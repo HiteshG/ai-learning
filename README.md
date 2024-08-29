@@ -5,7 +5,7 @@ Learning AI One-Day At a Time
 # Topics 
 
 1. Long-text Summarization technqiues.
-
+   (Chunking algorithms that keep the structure of contextual information and reduce data variance at runtime is the key here)
    There is a limited token size which GPT can take 4096 tokens at a time. You cannot fit all the large text into it in a single shot. But      this isn’t the limit on just the size of the next message you send… The combined length of everything needs to be short enough. That is,     all of the following together must be under this 4,096 token limit: The whole chat history, Your next message, ChatGPT’s next reply
 
    This is because ChatGPT doesn’t actually have a memory of your conversation–it just re-reads the whole conversation every time it replies!
