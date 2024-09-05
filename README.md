@@ -48,6 +48,22 @@ https://medium.com/@prajeeshprathap/understanding-grounding-llms-and-retrieval-a
    5. Prompting
    6. Embeddings 
 
+# Langflow Week 1: Challenge
+Summarization of large PDF then questions will be asked from summarize to get relevant answers. Best summary generated to answer every question would win. 
+
+#### Solution Approach 
+Mine: COT ( Ask GPT to create questions then based on questions create summary)
+Winners ( Learning):
+1. Who ( You are )
+2. Input 
+3. Task and it's breakdown ( This is the value addition - Standard summarization, Contextual summarization )
+4. Instructions ( 50-100 words, concise )
+5. Output (Give output as json well structured )
+
+Task/Thought Process: These steps are most important part. As they define the which way AI will think and do the tasks
+https://docs.google.com/document/d/1KGSAt7FO7ltivNYfOZlej-43I4RuRb2rXg-1Jufn_Gk/edit?usp=sharing
+
+
 Resources:
 https://github.com/GoogleCloudPlatform/generative-ai/tree/main
 https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial
