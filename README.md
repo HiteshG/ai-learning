@@ -45,8 +45,9 @@ Learning AI One-Day At a Time
 https://medium.com/@prajeeshprathap/understanding-grounding-llms-and-retrieval-augmented-generation-3a72c74a1d99
 
    4. RAGs
-   5. Prompting
-   6. Embeddings 
+     https://docs.google.com/document/d/1LTMh0Y52ZYnvUEnFCc04Or7-edqd8OmeHmdUhfO0CSA/edit
+   6. Prompting
+   7. Embeddings 
 
 # Langflow Week 1: Challenge
 Summarization of large PDF then questions will be asked from summarize to get relevant answers. Best summary generated to answer every question would win. 
